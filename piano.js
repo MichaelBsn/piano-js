@@ -48,3 +48,4 @@ document.querySelector('#note-a-sharp').addEventListener('click', () => {
 document.querySelector('#note-b-natural').addEventListener('click', () => {
     makeBeep(987.77)
 })
+
